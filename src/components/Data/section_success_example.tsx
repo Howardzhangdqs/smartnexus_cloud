@@ -1,4 +1,4 @@
-import { FeatureItems } from "../components/HomepageFeatures";
+import { FeatureItems } from "../HomepageFeatures";
 
 export default [
   {

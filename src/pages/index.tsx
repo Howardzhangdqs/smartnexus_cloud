@@ -8,16 +8,16 @@ import ImageSwitch from '@site/src/components/ImageSwitch';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import HomepageWordPic from '@site/src/components/HomepageWordPic';
 import Heading from '@theme/Heading';
-import section_core_function from './section_core_function';
-import section_product_introduction from './section_product_introduction';
-import section_technical_advantage from './section_technical_advantage';
+import section_core_function from '../components/Data/section_core_function';
+import section_product_introduction from '../components/Data/section_product_introduction';
+import section_technical_advantage from '../components/Data/section_technical_advantage';
 
 import styles from './index.module.css';
-import section_service_process from './section_service_process';
-import section_success_example from './section_success_example';
-import section_subscription_plan from './section_subscription_plan';
-import section_aftersales_support from './section_aftersales_support';
-import section_contact_entrance from './section_contact_entrance';
+import section_service_process from '../components/Data/section_service_process';
+import section_success_example from '../components/Data/section_success_example';
+import section_subscription_plan from '../components/Data/section_subscription_plan';
+import section_aftersales_support from '../components/Data/section_aftersales_support';
+import section_contact_entrance from '../components/Data/section_contact_entrance';
 
 
 function HomepageHeader() {
